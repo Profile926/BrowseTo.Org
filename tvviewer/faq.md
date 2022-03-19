@@ -2,10 +2,10 @@
 The TV Viewer main page is [here](https://github.com/Profile926/BrowseTo.Org/blob/main/README.md)
 
 Frequent Asked Questions
-Q: I do not hear sound.
+Q: I do not hear sound.  
 A: This program is optimized for cards that use a separate sound card for sound capture. So your input should be connected to your sound card as well. To hear sound, just turn up the volume bar in the normal volume mixer program you use. Usually sound is connected to the 'line-in' of your sound card.
 
-Q: TV Viewer does not save my input settings.
+Q: TV Viewer does not save my input settings.  
 A: TV Viewer tries to save the input settings, but this is not supported by all drivers / capture cards. Usually a separate program is provided by the card manufacturer that saves the default input settings. If this is not the case, you can try to use Vidcap to save the default input setting. Vidcap uses a different API, that has better support for saving the input settings.
 
 - Q: Can I make the program start full-screen using a command-line argument?

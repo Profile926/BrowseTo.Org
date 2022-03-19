@@ -61,7 +61,7 @@ Known supported cards:
 - Winnov Video Capture Card (ISA)
 - A laptop with a S3 Virge MX+, BT829 Chipset (S3 Live Video Capture VFW Driver)
 
-Known unsupported cards:  
+## Known unsupported cards:  
 - Dazzle DVC-170
 - Medion 7133 TV Tuner
 - Pinnacle DV500

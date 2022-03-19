@@ -10,7 +10,7 @@ Finally you can watch TV or other video sources (Capture cards, webcams, etc.) a
 
 To watch TV, you must use your VCR as tuner, and connect the video-out of your VCR with your capture card. You can also connect other devices that have a video out connector.
 
-![TV Viewer connection diagram](https://github.com/Profile926/BrowseTo.Org/blob/main/tv_viewer_connections.png)
+![TV Viewer connection diagram](https://github.com/Profile926/BrowseTo.Org/blob/main/tvviewer/tv_viewer_connections.png)
 
 ### Key Features
 - Watch fullscreen or in a window, which can be stretched to any size
@@ -22,16 +22,16 @@ To watch TV, you must use your VCR as tuner, and connect the video-out of your V
 - Small memory and CPU usage
 - Supports WDM and VfW based capture devices, Webcams and other video source devices.
 
-![TV Viewer screenshot](https://github.com/Profile926/BrowseTo.Org/blob/main/tvviewer.jpg)
+![TV Viewer screenshot](https://github.com/Profile926/BrowseTo.Org/blob/main/tvviewer/tvviewer.jpg)
 
 ### TV Viewer links
-[Download](tvviewer_download.md)
+[Download](tvviewer/download.md)
 
-[Usages of TV Viewer](tvviewer_usages.md)
+[Usages of TV Viewer](tvviewer/usages.md)
 
-[Supported cards](tvviewer_supportedcards.md)
+[Supported cards](tvviewer/supportedcards.md)
 
-[FAQ](tvviewer_faq.md)
+[FAQ](tvviewer/faq.md)
 
 
 # Mouse Emulator

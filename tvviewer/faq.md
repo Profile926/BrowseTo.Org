@@ -1,5 +1,5 @@
 # TV Viewer FAQ
-The TV Viewer main page is [here](https://github.com/Profile926/BrowseTo.Org/blob/main/README.md)
+The TV Viewer main page is [here](https://github.com/Profile926/BrowseTo.Org/blob/main/README.md).
 
 Frequent Asked Questions
 Q: I do not hear sound.  

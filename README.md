@@ -45,21 +45,38 @@ Mouse Emulator can also toggle mouse buttons with a simple key press. This is ve
 
 The program is freeware and runs under Windows NT/9x and above.
 
-Download here (10 kB)
+Download [here](https://github.com/Profile926/BrowseTo.Org/blob/main/mousemu.zip) (10 kB)
 
-If you really like the program, [donations](https://www.paypal.com/donate/?hosted_button_id=674WLNXJQCHC2) are appreciated. 
+If you like the program, [donations](https://www.paypal.com/donate/?hosted_button_id=674WLNXJQCHC2) are appreciated. 
 
 ### Mouse Emulator usage
 The program recognizes the following keys: (NumLock must be ON!)
 
-Keypad 1 - Left mouse button
-Keypad 2 - Right mouse button
-Keypad 3 - Middle mouse button
-Keypad 4, 5, 6, 8 - Moves the mouse left, down, right and/or up respectively.
-Keypad 7 - Mousewheel up (Scroll)
-Keypad 9 - Mousewheel down (Scroll)
-Keypad / - Toggle Left mouse button (Useful for RSI users)
-Keypad * - Toggle Right mouse button (Useful for RSI users)
-Keypad - - Toggle Middle mouse button (Useful for RSI users)
-You can exit Mouse Emulator by right clicking on the mouse icon in the taskbar.
+- Keypad 1 - Left mouse button
+- Keypad 2 - Right mouse button
+- Keypad 3 - Middle mouse button
+- Keypad 4, 5, 6, 8 - Moves the mouse left, down, right and/or up respectively.
+- Keypad 7 - Mousewheel up (Scroll)
+- Keypad 9 - Mousewheel down (Scroll)
+- Keypad / - Toggle Left mouse button (Useful for RSI users)
+- Keypad * - Toggle Right mouse button (Useful for RSI users)
+- Keypad - - Toggle Middle mouse button (Useful for RSI users)
+- You can exit Mouse Emulator by right clicking on the mouse icon in the taskbar.
 
+# Easy scroller utility
+Do rou really like scrolling with your mousewheel, but would you rather use the keyboard instead? Then Easy Scroller is the answer: When Easy Scroller is running, Page Up / Page Down act just like your wousewheel!
+
+Also very useful for people without a mousewheel, and people with RSI.
+
+The program is freeware and runs under Windows NT/9x and above.
+Download [here](https://github.com/Profile926/BrowseTo.Org/blob/main/EasyScroller.zip) (10 kB)
+
+If you like the program, [donations](https://www.paypal.com/donate/?hosted_button_id=Y2A3RAHLMXM9E) are appreciated. 
+
+### Easy scroller usage
+The program recognizes the following keys:
+
+- Page Up - Mouse Wheel up
+- Page Down - Mouse Wheel down
+- Ctrl + Keypad 0 - Enable/Disable Easy Scroller
+- You can exit Easy Scroller by right clicking on the dubble arrow icon in the taskbar.

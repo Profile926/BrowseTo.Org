@@ -25,7 +25,7 @@ To watch TV, you must use your VCR as tuner, and connect the video-out of your V
 ![TV Viewer screenshot](https://github.com/Profile926/BrowseTo.Org/blob/main/tvviewer/tvviewer.jpg)
 
 ### System requirements
-Windows 11, 10, 7, Windows XP or Windows Vista.
+Windows 11, 10, 7, Windows XP or Windows Vista.  
 Windows 95, 98, Me, 2000: You must have DirectX 8 or better installed.
 
 ### TV Viewer links

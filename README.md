@@ -24,15 +24,15 @@ To watch TV, you must use your VCR as tuner, and connect the video-out of your V
 
 ![TV Viewer screenshot](https://github.com/Profile926/BrowseTo.Org/blob/main/tvviewer/tvviewer.jpg)
 
+### System requirements
+Windows 11, 10, 7, Windows XP or Windows Vista.
+Windows 95, 98, Me, 2000: You must have DirectX 8 or better installed.
+
 ### TV Viewer links
-[Download](tvviewer/download.md)
-
-[Usages of TV Viewer](tvviewer/usages.md)
-
-[Supported cards](tvviewer/supportedcards.md)
-
-[FAQ](tvviewer/faq.md)
-
+[Download trial version](https://github.com/Profile926/BrowseTo.Org/raw/main/tviewer/tvtrial.zip) (50 kB)
+[Usages of TV Viewer](tvviewer/usages.md)  
+[Supported cards](tvviewer/supportedcards.md)  
+[FAQ](tvviewer/faq.md)  
 
 # Mouse Emulator
 Is your mouse broken, or did you just forget it? Or maybe you are having USB driver problems, and your mouse isn't working. With Mouse Emulator, you can still use your computer.

@@ -29,7 +29,7 @@ Windows 11, 10, 7, Windows XP or Windows Vista.
 Windows 95, 98, Me, 2000: You must have DirectX 8 or better installed.
 
 ### TV Viewer links
-[Download trial version](https://github.com/Profile926/BrowseTo.Org/raw/main/tviewer/tvtrial.zip) (50 kB)
+[Download trial version](https://github.com/Profile926/BrowseTo.Org/blob/main/tvviewer/tvtrial.zip?raw=true)  (50 kB)  
 [Usages of TV Viewer](tvviewer/usages.md)  
 [Supported cards](tvviewer/supportedcards.md)  
 [FAQ](tvviewer/faq.md)  

@@ -45,7 +45,7 @@ Mouse Emulator can also toggle mouse buttons with a simple key press. This is ve
 
 The program is freeware and runs under Windows NT/9x and above.
 
-Download [here](https://github.com/Profile926/BrowseTo.Org/blob/main/mousemu.zip) (10 kB)
+Download [here](https://github.com/Profile926/BrowseTo.Org/raw/main/mousemu.zip) (10 kB)
 
 If you like the program, [donations](https://www.paypal.com/donate/?hosted_button_id=674WLNXJQCHC2) are appreciated. 
 
@@ -69,7 +69,7 @@ Do rou really like scrolling with your mousewheel, but would you rather use the 
 Also very useful for people without a mousewheel, and people with RSI.
 
 The program is freeware and runs under Windows NT/9x and above.
-Download [here](https://github.com/Profile926/BrowseTo.Org/blob/main/EasyScroller.zip) (10 kB)
+Download [here](https://github.com/Profile926/BrowseTo.Org/raw/main/EasyScroller.zip) (10 kB)
 
 If you like the program, [donations](https://www.paypal.com/donate/?hosted_button_id=Y2A3RAHLMXM9E) are appreciated. 
 

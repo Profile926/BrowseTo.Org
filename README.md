@@ -1,6 +1,6 @@
 # BrowseTo.Org
 Here you can find the key utilities previously hosted on the BrowseTo.org website.
-The website with original styling is also available via the Internet Archive [here](https://web.archive.org/web/20211218231743/http://rhdesigns.browseto.org/)
+The website with original styling is also available via the Internet Archive [here](https://web.archive.org/web/20211218231743/http://rhdesigns.browseto.org/).
 
 # TV Viewer
 
@@ -26,8 +26,11 @@ To watch TV, you must use your VCR as tuner, and connect the video-out of your V
 
 ### TV Viewer links
 [Download](tvviewer_download.md)
+
 [Usages of TV Viewer](tvviewer_usages.md)
+
 [Supported cards](tvviewer_supportedcards.md)
+
 [FAQ](tvviewer_faq.md)
 
 
